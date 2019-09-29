@@ -1,0 +1,16 @@
+{
+  "name": "js-project",
+  "version": "0.0.1",
+  "description": "A JS project cretated by Eduardo Costa",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "js",
+    "vanilla"
+  ],
+  "author": "Eduardo Costa",
+  "license": "ISC",
+  "dependencies": {}
+}
