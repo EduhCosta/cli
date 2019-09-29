@@ -6,16 +6,16 @@ This project has created with promise of simplify my ready projects.
 
 ## TODO
 
-[ ] Create all templates
-[ ] Implement templates on git
-[ ] Ready projects by git templates
-[ ] Ready CI with build and tests
+[] Create all templates
+[] Implement templates on git
+[] Ready projects by git templates
+[] Ready CI with build and tests
 
 ## Templates to implement
 
-[ ] Vanilla
-[ ] Typescript
-[ ] ReactLib
-[ ] Node
-[ ] ReactJS
-[ ] ReactNative
+[] Vanilla
+[] Typescript
+[] ReactLib
+[] Node
+[] ReactJS
+[] ReactNative
